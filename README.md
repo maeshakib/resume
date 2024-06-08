@@ -27,8 +27,13 @@ This visualization explores the CitiBike data to find trends in user demographic
 * **Core responsibilities**: Data cleanup, analysis, final deployment on Tableau Public
 * **Tools / languages used**: Python, Tableau
 
-## Experience
+## Training and Certifications
+### Microsoft Certified: Power BI Data Analyst Associate | [https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg) | [Deployed](https://bit.ly/2FfMqah)
+This project uses a Machine Learning regression model to estimate the number of solar panels required to satisfy the user’s energy needs in Mexico City Metropolitan Area and calculate the return of investment.
 
+
+
+## Experience
 ### Data Management Associate
 #### May 2020 – Currently working | UNHCR | Coxsbazar City, Bangladesh
 Performed data analysis from large datasets using Excel and PowerBI to extract valuable insights related to energy efficiency in the operation of commercial and industrial clients. Led reporting process and supervised implementation of energy management strategies in clients’ operations.
@@ -47,15 +52,13 @@ Developed a Life Cycle Assessment model using OpenLCA and Ecoinvent datasets at 
 Developed a Life Cycle Assessment model using OpenLCA and Ecoinvent datasets at the International Reference Center for Life Cycle of Products, Processes and Systems (CIRAIG).
 
 ### Programmer, .
-#### October 2015 – June 2018 | Fiberathome Ltd | Dhaka City, Bangladesh
+#### October 2014 – June 2018 | Fiberathome Ltd | Dhaka City, Bangladesh
 Created web applications for supply chain management and issue tracking in telecommunications using PHP and Laravel. Developed and managed MySQL database systems, performed data analysis, and handled server administration.
 
 
 ## Education
-* **Data Analytics and Visualization Certificate (2020)**: Tecnológico de Monterrey (Mexico City, Mexico)
-* **Data Literacy Certificate (2020)**: CENTRO Diseño, Cine y Televisión (Mexico City, Mexico)
-* **Bachelor of Science With Honors In Sustainable Development Engineering (2013 – 2018)**: Tecnológico de Monterrey (Mexico City, Mexico)
-* **Diplôme d’Études en Langue Française – DELF B1 (2011 – 2013)**: Universidad Nacional Autónoma de México (Mexico City, Mexico)
+* **MSc. in Data Analytics & Design Thinking for Business (2024)**: EAST DELTA UNIVERSITY (East Nasirabad, Khulshi, Chattogram: 4209)
+* **Bachelor of Science in Computer Science & Engineering (2010 – 2014)**: Dhaka University of Engineering and Technology, Gazipur. (Gazipur city, Bangladesh)
 
 ## Awards and Acknowledgements
 ### Co-author of selected article to be presented at The Future of Work and Learning Conference 2020
