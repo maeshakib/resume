@@ -28,27 +28,28 @@ This visualization explores the CitiBike data to find trends in user demographic
 * **Tools / languages used**: Python, Tableau
 
 ## Experience
-### Customer Success & Operations Consultant
-#### January 2020 – Present | S2G Energy | Mexico City, Mexico
-Coordinated implementation of Business Intelligence-based energy management projects and platforms for commercial clients in the restaurant industry. Communication skills were crucial to showcase team’s findings and results to stakeholders on different organizational levels.<br>
-#### Key Accomplishments:
-* Coordinated development of an automated online dashboard, decreasing the team’s reporting time by 80%.
-* Headed a project for six international restaurant brands, achieving energy savings worth over $600,000 USD over a period of three years. 
 
-### Customer Success Analyst
-#### June 2018 – December 2019 | S2G Energy | Mexico City, Mexico
+### Data Management Associate
+#### May 2020 – Currently working | UNHCR | Coxsbazar City, Bangladesh
 Performed data analysis from large datasets using Excel and PowerBI to extract valuable insights related to energy efficiency in the operation of commercial and industrial clients. Led reporting process and supervised implementation of energy management strategies in clients’ operations.
 #### Key Accomplishments:
 * Executed a successful pilot test resulting in implementation of a multi-site project worth over $13,000 USD/year.
 * Increased the company’s domestic photovoltaic installed sites by 29%. 
 
-### Research Intern
-#### May 2017 – August 2017 | École Polytechnique de Montréal | Montreal, Canada
+### Data Management Assistant
+#### June 2019 – April 2020 | UNHCR | Coxsbazar City, Bangladesh
 Developed a Life Cycle Assessment model using OpenLCA and Ecoinvent datasets at the International Reference Center for Life Cycle of Products, Processes and Systems (CIRAIG).
 
-### Corporate Sustainability Consulting Intern
-#### January 2017 – May 2017 | Géon | Mexico City, Mexico
-Auxiliary tasks for database development in MS Access, sustainability reporting using Global Reporting Initiative methodology, and Computer-Aided Design (CAD) project related to ecosystem remediation.
+
+
+### Web Developer
+#### July 2018 – May 2019 | OneICT Ltd. | Dhaka City, Bangladesh
+Developed a Life Cycle Assessment model using OpenLCA and Ecoinvent datasets at the International Reference Center for Life Cycle of Products, Processes and Systems (CIRAIG).
+
+### Programmer, .
+#### October 2015 – June 2018 | Fiberathome Ltd | Dhaka City, Bangladesh
+Created web applications for supply chain management and issue tracking in telecommunications using PHP and Laravel. Developed and managed MySQL database systems, performed data analysis, and handled server administration.
+
 
 ## Education
 * **Data Analytics and Visualization Certificate (2020)**: Tecnológico de Monterrey (Mexico City, Mexico)
