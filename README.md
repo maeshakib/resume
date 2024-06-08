@@ -4,7 +4,7 @@ Cox's Bazaar, Bangladesh. ZIP 4700	<br> Email: shakibm@unhcr.org, ehasanshakib@g
 <br>
 [<img align="left" alt="maeshakib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maeshakib/) [<img align="left" alt="JaviSandoval94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/maeshakib/)<br>
 ## Summary
-Multidisciplinary Data Analyst with 8 years of experience, including over 4 years at UNHCR and 4 years in web development. Expert in data management, planning, and coordination. Led major projects at UNHCR, Cox's Bazar in Bangladesh, overseeing more than 20 distribution campaigns, including non-food items and health-related vaccinations, and collecting 13M+ assistance records. Proficient in planning, targeting, data collection, data cleaning (Excel, Python, SQL), and reporting. Skilled in data wrangling, analysis (SQL, R, Python, Excel), and visualization (Power BI, Tableau). Fluent in English.
+Multidisciplinary Data Analyst with 8 years of experience, including over 4 years as a Data Management Associate at UNHCR, Cox's Bazar, and 4 years in web development. Expert in data management, planning, and coordination. Led major projects at UNHCR, Cox's Bazar, overseeing over 20 distribution campaigns, including non-food items and health-related vaccinations, and collecting 13M+ assistance records. Proficient in planning, targeting, data collection, data cleaning (Excel, Python, SQL), and reporting. Skilled in data wrangling, analysis (SQL, R, Python, Excel), and visualization (Power BI, Tableau). Fluent in English.
 
 ## Technical Skills
 * **Programming**: SQL, Python, R , DAX, HTML
@@ -28,11 +28,11 @@ This visualization explores the CitiBike data to find trends in user demographic
 * **Tools / languages used**: Python, Tableau
 
 ## Training and Certifications
-### Microsoft Certified: Power BI Data Analyst Associate  [<img align="left" alt="powerbiassocaite | microsoft" width="22px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" />](https://www.credly.com/badges/dfd4fd8a-8e67-42f6-a700-95277c57e2e8/public_url)
+### [Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/dfd4fd8a-8e67-42f6-a700-95277c57e2e8/public_url)  <img align="left" alt="powerbiassocaite | microsoft" width="22px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" />
 
 Demonstrate methods and best practices that align with business and technical requirements for modeling, visualizing, and analyzing data with Microsoft Power BI.
 
-### SQL (Basic) Certificate  [<img align="left" alt="sql basic certificate | hackerrank" width="22px" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" />](https://www.hackerrank.com/certificates/d15917b3b175)
+### [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/d15917b3b175) <img align="left" alt="sql basic certificate | hackerrank" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" />
 
 Demonstrate methods and best practices that align with business and technical requirements for modeling, visualizing, and analyzing data with Microsoft Power BI.
 
@@ -61,7 +61,7 @@ Created web applications for supply chain management and issue tracking in telec
 
 
 ## Education
-* **MSc. in Data Analytics & Design Thinking for Business (2024)**: EAST DELTA UNIVERSITY (East Nasirabad, Khulshi, Chattogram: 4209)
+* **[MSc. in Data Analytics & Design Thinking for Business](https://www.eastdelta.edu.bd/programs-offered-by-the-university/sob/msc-data-analytics) (2024)**: EAST DELTA UNIVERSITY (East Nasirabad, Khulshi, Chattogram: 4209) 
 * **Bachelor of Science in Computer Science & Engineering (2010 – 2014)**: Dhaka University of Engineering and Technology, Gazipur. (Gazipur city, Bangladesh)
 
 ## Awards and Acknowledgements
