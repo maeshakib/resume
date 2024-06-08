@@ -28,7 +28,7 @@ This visualization explores the CitiBike data to find trends in user demographic
 * **Tools / languages used**: Python, Tableau
 
 ## Training and Certifications
-### Microsoft Certified: Power BI Data Analyst Associate | [<img align="left" alt="powerbiassocaite | microsoft" width="22px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" />](https://www.linkedin.com/in/maeshakib/)
+### Microsoft Certified: Power BI Data Analyst Associate | [<img align="left" alt="powerbiassocaite | microsoft" width="22px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" />](https://www.credly.com/badges/dfd4fd8a-8e67-42f6-a700-95277c57e2e8/public_url)
 
 This project uses a Machine Learning regression model to estimate the number of solar panels required to satisfy the user’s energy needs in Mexico City Metropolitan Area and calculate the return of investment.
 
