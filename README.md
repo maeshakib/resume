@@ -11,6 +11,11 @@ Multidisciplinary Data Analyst with 8 years of experience, including over 4 year
 * **Software**: Power BI, Advanced MS Excel, Tableau, Git
 * **Databases**: SQL Server, My SQL
 
+
+
+[ERD](https://github.com/maeshakib/ERD_Crow_s_foot_notation/blob/main/README.md)
+
+
 ## Projects
 ### Solar Calculator | [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
 This project uses a Machine Learning regression model to estimate the number of solar panels required to satisfy the user’s energy needs in Mexico City Metropolitan Area and calculate the return of investment.
