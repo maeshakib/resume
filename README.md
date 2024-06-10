@@ -4,11 +4,11 @@ Cox's Bazaar, Bangladesh. ZIP 4700	<br> Email: shakibm@unhcr.org, ehasanshakib@g
 <br>
 [<img align="left" alt="maeshakib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maeshakib/) [<img align="left" alt="JaviSandoval94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/maeshakib/)<br>
 ## Summary
-Multidisciplinary Data Analyst with 8 years of experience, including over 4 years as a Data Management Associate at UNHCR, Cox's Bazar, and 4 years in web development. Expert in data management, planning, and coordination. Led major projects at UNHCR, Cox's Bazar, overseeing over 20 distribution campaigns, including non-food items and health-related vaccinations, and collecting 13M+ assistance records. Proficient in planning, targeting, data collection, data cleaning (Excel, Python, SQL), and reporting. Skilled in data wrangling, analysis (SQL, R, Python, Excel), and visualization (Power BI, Tableau). Fluent in English.
+Multidisciplinary Data Analyst with 8 years of experience, including over 4 years as a Data Management Associate at [UNHCR](https://www.unhcr.org/), Cox's Bazar, and 4 years in web development. Expert in data management, planning, and coordination. Led major projects at UNHCR, Cox's Bazar, overseeing over 20 distribution campaigns, including non-food items and health-related vaccinations, and collecting 13M+ assistance records. Proficient in planning, targeting, data collection, data cleaning (Excel, Python, SQL), and reporting. Skilled in data wrangling, analysis (SQL, R, Python, Excel), and visualization (Power BI, Tableau). Fluent in English.
 
 ## Technical Skills
-* **Programming**: SQL, Python, R , DAX, HTML
-* **Software**: Power BI, Advanced MS Excel, Tableau, Git
+* **Programming**: SQL, [Python](https://github.com/maeshakib/shakib_s_Python_all_repos), [R](https://github.com/maeshakib/shakib_s_R_all_repos) , DAX, HTML
+* **Software**: [Power BI](https://github.com/maeshakib/shakib_s_powerBI_all_repos), Advanced MS Excel, [Tableau](https://github.com/maeshakib/shakib_s_Tableau_all_repos), Git
 * **Databases**: SQL Server, My SQL
 
 
