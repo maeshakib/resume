@@ -8,7 +8,7 @@ Multidisciplinary Data Analyst with 8 years of experience, including over 4 year
 
 ## Technical Skills
 * **Programming**: SQL, [Python](https://github.com/maeshakib/shakib_s_Python_all_repos), [R](https://github.com/maeshakib/shakib_s_R_all_repos) , DAX, HTML
-* **Software**: [Power BI](https://github.com/maeshakib/shakib_s_powerBI_all_repos), Advanced MS Excel, [Tableau](https://github.com/maeshakib/shakib_s_Tableau_all_repos), Git
+* **Software**: [Power BI](https://github.com/maeshakib/shakib_s_powerBI_all_repos), Advanced MS Excel, [Tableau](https://github.com/maeshakib/shakib_s_Tableau_all_repos), Git, Arc GIS, CRM, Photoshop, Adobe Illustrator
 * **Databases**: SQL Server  (Scripting,[ERD](https://github.com/maeshakib/ERD_Crow_s_foot_notation/blob/main/README.md), [Administraton](https://github.com/maeshakib/ERD_Crow_s_foot_notation/blob/main/README.md)), My SQL
 
 
