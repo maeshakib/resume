@@ -16,7 +16,7 @@ Multidisciplinary Data Analyst with 8 years of experience, including over 4 year
 ### Data management support on UNHCR,coxsbazar operation | [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
 This project uses a Machine Learning regression model to estimate the number of solar panels required to satisfy the user’s energy needs in Mexico City Metropolitan Area and calculate the return of investment.
 * **Core responsibilities**: 
-* **Tools / languages used**: Python, Javascript, Flask, PostgreSQL, SQLAlchemy, Plotly, Sklearn
+* **Tools / languages used**: Excel, SQL Server, CRM, XML, Power Query, Power BI, UNHCR proGres, UNHCR BIMS, SSRS, SSIS
 
 ### Earthquake Visualization Using Leaflet | [GitHub](https://bit.ly/30cnxUB) | [Deployed](https://bit.ly/3geZHgM)
 This project showcases the location and magnitude of the last seven days of earthquake data from the USGS web API in an interactive world map.
