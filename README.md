@@ -13,9 +13,9 @@ Multidisciplinary Data Analyst with 8 years of experience, including over 4 year
 
 
 ## Projects
-### Solar Calculator | [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
+### Data management support on UNHCR,coxsbazar operation | [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
 This project uses a Machine Learning regression model to estimate the number of solar panels required to satisfy the user’s energy needs in Mexico City Metropolitan Area and calculate the return of investment.
-* **Core responsibilities**: Subject-matter expert, final deployment on Heroku
+* **Core responsibilities**: 
 * **Tools / languages used**: Python, Javascript, Flask, PostgreSQL, SQLAlchemy, Plotly, Sklearn
 
 ### Earthquake Visualization Using Leaflet | [GitHub](https://bit.ly/30cnxUB) | [Deployed](https://bit.ly/3geZHgM)
@@ -41,12 +41,18 @@ Demonstrate methods and best practices that align with business and technical re
 ## Experience
 ### Data Management Associate
 #### May 2020 – Currently working | UNHCR | Coxsbazar City, Bangladesh
-Leading a team of 8 members and monitoring the distribution operations of UNHCR-managed 16 camps in Bangladesh. Implementing data management for registration activities, conducting statistical analysis, supporting quality assurance, developing statistical methods, ensuring standards compliance, and coordinating with partners. Additionally, contributing to planning, reporting, and developing analytical products and reports.
 
+* Leading a team of 8 members and monitoring the distribution operations of UNHCR-managed 16 camps in Bangladesh. 
+* Coordinate data and information management activities at country, regional, and global levels.
+* Provide technical guidance on data management methodologies and support data collection and analysis.
+* Lead data analysis and develop information management products like indicators, maps, and dashboards.
+* Collaborate with staff to enhance data literacy and ensure data security and compliance.
+* Identify risks and opportunities based on data insights and support evidence-informed decision-making.
 
 #### Key Accomplishments:
-* Executed a successful pilot test resulting in implementation of a multi-site project worth over $13,000 USD/year.
-* Increased the company’s domestic photovoltaic installed sites by 29%. 
+* Lead in 22 Health Vaccination campagin through wich 3.54 millions vaccination distribution tracked accross the 33 Camps and Bhasan Char.
+* First implementation of UNHCR Global Distribution Tool(GDT) in Health campaing through Covid-19 vaccination campaign.
+
 
 ### Data Management Assistant
 #### June 2019 – April 2020 | UNHCR | Coxsbazar City, Bangladesh
