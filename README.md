@@ -45,15 +45,16 @@ Demonstrate methods and best practices that align with business and technical re
 ## Experience
 ### Data Management Associate
 #### May 2020 – Currently working | UNHCR | Coxsbazar City, Bangladesh
-Performed data analysis from large datasets using Excel and PowerBI to extract valuable insights related to energy efficiency in the operation of commercial and industrial clients. Led reporting process and supervised implementation of energy management strategies in clients’ operations.
+Implementing data management and registration strategies, conducted statistical analysis, supported quality assurance, developed statistical methods, ensured compliance with standards, and coordinated with partners at UNHCR Bangladesh. Contributed to planning, reporting, and development of analytical products and reports.
+
+
 #### Key Accomplishments:
 * Executed a successful pilot test resulting in implementation of a multi-site project worth over $13,000 USD/year.
 * Increased the company’s domestic photovoltaic installed sites by 29%. 
 
 ### Data Management Assistant
 #### June 2019 – April 2020 | UNHCR | Coxsbazar City, Bangladesh
-Developed a Life Cycle Assessment model using OpenLCA and Ecoinvent datasets at the International Reference Center for Life Cycle of Products, Processes and Systems (CIRAIG).
-
+Analyzed large datasets for Rohingya refugees using Excel, SQL, and PowerBI. Led reporting, supervised registration and distribution operations, coordinated with partners, and implemented PRIMES applications at UNHCR Bangladesh. Trained staff and developed data collection forms.
 
 
 ### Web Developer
