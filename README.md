@@ -45,7 +45,7 @@ Demonstrate methods and best practices that align with business and technical re
 ## Experience
 ### Data Management Associate
 #### May 2020 – Currently working | UNHCR | Coxsbazar City, Bangladesh
-Implementing data management and registration strategies, conducted statistical analysis, supported quality assurance, developed statistical methods, ensured compliance with standards, and coordinated with partners at UNHCR Bangladesh. Contributed to planning, reporting, and development of analytical products and reports.
+Leading a team of 8 members and monitoring the distribution operations of UNHCR-managed 16 camps in Bangladesh. Implementing data management for registration activities, conducting statistical analysis, supporting quality assurance, developing statistical methods, ensuring standards compliance, and coordinating with partners. Additionally, contributing to planning, reporting, and developing analytical products and reports.
 
 
 #### Key Accomplishments:
