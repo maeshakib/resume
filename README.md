@@ -26,7 +26,22 @@ This project uses a Machine Learning regression model to estimate the number of 
 * **Core responsibilities**: 
 * **Tools / languages used**: Excel, SQL Server, CRM, XML, Power Query, Power BI, UNHCR proGres, UNHCR BIMS, SSRS, SSIS
 
-### Earthquake Visualization Using Leaflet | [GitHub](https://bit.ly/30cnxUB) | [Deployed](https://bit.ly/3geZHgM)
+### Covid 19 vaccination campaign in Bangladesh Operation  [2021-2023]| [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
+This project uses a Machine Learning regression model to estimate the number of solar panels required to satisfy the user’s energy needs in Mexico City Metropolitan Area and calculate the return of investment.
+* **Core responsibilities**: 
+* **Tools / languages used**: Excel, SQL Server, CRM, XML, Power Query, Power BI, UNHCR proGres, UNHCR BIMS, SSRS, SSIS
+
+### Diphtheria Vaccination Campaign for Rohingya Refugees in Cox's Bazar, Bangladesh | [2022-2023]| [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
+This project uses a Machine Learning regression model to estimate the number of solar panels required to satisfy the user’s energy needs in Mexico City Metropolitan Area and calculate the return of investment.
+* **Core responsibilities**: 
+* **Tools / languages used**: Excel, SQL Server, CRM, XML, Power Query, Power BI, UNHCR proGres, UNHCR BIMS, SSRS, SSIS
+
+### Liquid Petroleum Gas Distribution in UNHCR AoR 16 Camps | [2019-ongoing] | [GitHub](https://bit.ly/30cnxUB) | [Deployed](https://bit.ly/3geZHgM)
+This project showcases the location and magnitude of the last seven days of earthquake data from the USGS web API in an interactive world map.
+* **Core responsibilities**: Web app development, final deployment on GitHub Pages
+* **Tools / languages used**: JavaScript, Leaflet, GeoJSON
+
+### Non Food Item Distribution in UNHCR AoR 16 Camps | [2019-ongoing] | [GitHub](https://bit.ly/30cnxUB) | [Deployed](https://bit.ly/3geZHgM)
 This project showcases the location and magnitude of the last seven days of earthquake data from the USGS web API in an interactive world map.
 * **Core responsibilities**: Web app development, final deployment on GitHub Pages
 * **Tools / languages used**: JavaScript, Leaflet, GeoJSON
