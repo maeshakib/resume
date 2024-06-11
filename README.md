@@ -4,6 +4,9 @@
  
 Cox's Bazaar, Bangladesh. ZIP 4700	<br> Email: shakibm@unhcr.org, ehasanshakib@gmail.com <br>
 <br>
+
+<a href="https://github.com/maeshakib/shakib_s_excel_all_repos"><img src="https://github.com/maeshakib/z_resources/blob/main/microsoft-excel-logo-thumbnail.png" height="50"/></a>
+
 [![My Skills](https://skillicons.dev/icons?i=r)](https://github.com/maeshakib/shakib_s_R_all_repos) 
 <a href="https://github.com/maeshakib/shakib_s_powerBI_all_repos"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="50"/></a>
 <a href="https://github.com/maeshakib/shakib_s_powerBI_all_repos"><img src="https://github.com/maeshakib/z_resources/blob/main/sql-server.png" height="50"/></a>
