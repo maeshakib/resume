@@ -2,6 +2,8 @@
 ## Contact
 Cox's Bazaar, Bangladesh. ZIP 4700	<br> Email: shakibm@unhcr.org, ehasanshakib@gmail.com <br>
 <br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,r,py,postman,php,laravel,ps,html,bootstrap,css,ai,github)](https://skillicons.dev)
+
 [<img align="left" alt="maeshakib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maeshakib/) [<img align="left" alt="JaviSandoval94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/maeshakib/)<br>
 ## Summary
 Multidisciplinary Data Analyst with 8 years of experience, including over 4 years as a Data Management Associate at [UNHCR](https://www.unhcr.org/), Cox's Bazar, and 4 years in web development. Expert in data management, planning, and coordination. Led major projects at UNHCR, Cox's Bazar, overseeing over 20 distribution campaigns, including non-food items and health-related vaccinations, and collected 13M+ assistance records. Proficient in planning, targeting, data collection, data cleaning (Excel, Python, SQL), and reporting. Skilled in data wrangling, analysis (Excel, SQL, R, Python), and visualization (Power BI, Tableau). Fluent in English.
