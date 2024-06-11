@@ -5,12 +5,9 @@
 Cox's Bazaar, Bangladesh. ZIP 4700	<br> Email: shakibm@unhcr.org, ehasanshakib@gmail.com <br>
 <br>
 
-<a href="https://github.com/maeshakib/shakib_s_excel_all_repos"><img src="https://github.com/maeshakib/z_resources/blob/main/microsoft-excel-logo-thumbnail.png" height="50"/></a>
-
-[![My Skills](https://skillicons.dev/icons?i=r)](https://github.com/maeshakib/shakib_s_R_all_repos) 
-<a href="https://github.com/maeshakib/shakib_s_powerBI_all_repos"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="50"/></a>
+<a href="https://github.com/maeshakib/shakib_s_excel_all_repos"><img src="https://github.com/maeshakib/z_resources/blob/main/microsoft-excel-logo-thumbnail.png" height="50"/></a><a href="https://github.com/maeshakib/shakib_s_powerBI_all_repos"><img src="https://github.com/maeshakib/z_resources/blob/main/sql.png" height="50"/></a>[![My Skills](https://skillicons.dev/icons?i=r)](https://github.com/maeshakib/shakib_s_R_all_repos) [![My Skills](https://skillicons.dev/icons?i=py)](https://github.com/maeshakib/shakib_s_Python_all_repos) <a href="https://github.com/maeshakib/shakib_s_powerBI_all_repos"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="50"/></a>
 <a href="https://github.com/maeshakib/shakib_s_powerBI_all_repos"><img src="https://github.com/maeshakib/z_resources/blob/main/sql-server.png" height="50"/></a>
-<a href="https://github.com/maeshakib/shakib_s_powerBI_all_repos"><img src="https://github.com/maeshakib/z_resources/blob/main/sql.png" height="50"/></a>[![My Skills](https://skillicons.dev/icons?i=mysql,py,postman,php,laravel,ps,html,bootstrap,css,ai,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postman,php,laravel,ps,html,bootstrap,css,ai,github)](https://skillicons.dev)
 
 
 [<img align="left" alt="maeshakib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maeshakib/) [<img align="left" alt="JaviSandoval94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/maeshakib/)<br>
