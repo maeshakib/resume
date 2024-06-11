@@ -21,12 +21,12 @@ Multidisciplinary Data Analyst with 8 years of experience, including over 4 year
 
 
 ## Projects
-### Data management support on UNHCR,coxsbazar operation | [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
+### Data management support on UNHCR,coxsbazar operation | [2020-ongoing] | [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
 This project uses a Machine Learning regression model to estimate the number of solar panels required to satisfy the user’s energy needs in Mexico City Metropolitan Area and calculate the return of investment.
 * **Core responsibilities**: 
 * **Tools / languages used**: Excel, SQL Server, CRM, XML, Power Query, Power BI, UNHCR proGres, UNHCR BIMS, SSRS, SSIS
 
-### Covid 19 vaccination campaign in Bangladesh Operation  [2021-2023]| [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
+### Covid 19 vaccination campaign in Bangladesh Operation | [2021-2023] | [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
 This project uses a Machine Learning regression model to estimate the number of solar panels required to satisfy the user’s energy needs in Mexico City Metropolitan Area and calculate the return of investment.
 * **Core responsibilities**: 
 * **Tools / languages used**: Excel, SQL Server, CRM, XML, Power Query, Power BI, UNHCR proGres, UNHCR BIMS, SSRS, SSIS
