@@ -36,7 +36,7 @@ This project uses a Machine Learning regression model to estimate the number of 
 * **Core responsibilities**: 
 * **Tools / languages used**: Excel, SQL Server, CRM, XML, Power Query, Power BI, UNHCR proGres, UNHCR BIMS, SSRS, SSIS
 
-### Liquid Petroleum Gas Distribution in UNHCR AoR 16 Camps | [2019-ongoing] | [GitHub](https://bit.ly/30cnxUB) | [Deployed](https://bit.ly/3geZHgM)
+### Liquid Petroleum Gas (LPG) Distribution in UNHCR AoR 16 Camps | [2019-ongoing] | [GitHub](https://bit.ly/30cnxUB) | [Deployed](https://bit.ly/3geZHgM)
 This project showcases the location and magnitude of the last seven days of earthquake data from the USGS web API in an interactive world map.
 * **Core responsibilities**: Web app development, final deployment on GitHub Pages
 * **Tools / languages used**: JavaScript, Leaflet, GeoJSON
@@ -46,11 +46,7 @@ This project showcases the location and magnitude of the last seven days of eart
 * **Core responsibilities**: Web app development, final deployment on GitHub Pages
 * **Tools / languages used**: JavaScript, Leaflet, GeoJSON
 
-### CitiBike NYC in 2020 | [Deployed](https://tabsoft.co/311T6zJ)
-This visualization explores the CitiBike data to find trends in user demographics and bike trips during COVID19 in New York City and help aid subscriptor retargeting efforts during the recovery phase.
-* **Core responsibilities**: Data cleanup, analysis, final deployment on Tableau Public
-* **Tools / languages used**: Python, Tableau
-
+ 
 ## Training and Certifications
 ### [Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/dfd4fd8a-8e67-42f6-a700-95277c57e2e8/public_url)  <img align="left" alt="powerbiassocaite | microsoft" width="22px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" />
 
