@@ -36,7 +36,7 @@ This project uses a Machine Learning regression model to estimate the number of 
 * **Core responsibilities**: 
 * **Tools / languages used**: Excel, SQL Server, CRM, XML, Power Query, Power BI, UNHCR proGres, UNHCR BIMS, SSRS, SSIS
 
-### Diphtheria Vaccination Campaign for Rohingya Refugees in Cox's Bazar, Bangladesh | [2022-2023]| [GitHub](https://bit.ly/3kziHcg) | [Deployed](https://bit.ly/2FfMqah)
+### Diphtheria Vaccination Campaign for Rohingya Refugees in Cox's Bazar, Bangladesh | [2022-2023]| [GitHub](https://github.com/maeshakib/Diphtheria-Vaccination-Campaign-for-Rohingya-Refugees-in-Cox-s-Bazar) 
 This project uses a Machine Learning regression model to estimate the number of solar panels required to satisfy the user’s energy needs in Mexico City Metropolitan Area and calculate the return of investment.
 * **Core responsibilities**: 
 * **Tools / languages used**: Excel, SQL Server, CRM, XML, Power Query, Power BI, UNHCR proGres, UNHCR BIMS, SSRS, SSIS
@@ -66,12 +66,18 @@ Demonstrate methods and best practices that align with business and technical re
 ### Data Management Associate
 #### May 2020 – Currently working | UNHCR | Coxsbazar City, Bangladesh
 
-* Leading a team of 8 members and monitoring the distribution operations of UNHCR-managed 16 camps in Bangladesh. 
-* Coordinate data and information management activities at country, regional, and global levels.
-* Provide technical guidance on data management methodologies and support data collection and analysis.
-* Lead data analysis and develop information management products like indicators, maps, and dashboards.
-* Collaborate with staff to enhance data literacy and ensure data security and compliance.
-* Identify risks and opportunities based on data insights and support evidence-informed decision-making.
+* Lead a team of 8 members, overseeing distribution operations across 16 UNHCR-managed camps in Bangladesh.
+* Design operational reports, statistics, and data collection forms; respond to report requests; liaise on reporting requirements, conduct data audits, and maintain databases.
+* Train staff and partners on data management; enhance data literacy; ensure data security and compliance.
+* Coordinate data and information management at country, regional, and global levels.
+* Manage ProGres database: ensure data collection, input, verification, and SOP adherence; maintain data accuracy, security, and backups; perform admin functions.
+*  Provide technical guidance on data methodologies; support data collection and analysis.
+* Identify risks and opportunities from data insights; support evidence-based decision-making.
+ 
+  
+ 
+ 
+
 
 #### Key Accomplishments:
 * Lead in 22 Health Vaccination campagin through wich 3.54 millions vaccination distribution tracked accross the 33 Camps and Bhasan Char.
@@ -96,16 +102,7 @@ Created web applications for supply chain management and issue tracking in telec
 * **[MSc. in Data Analytics & Design Thinking for Business](https://www.eastdelta.edu.bd/programs-offered-by-the-university/sob/msc-data-analytics) (2024)**: EAST DELTA UNIVERSITY (East Nasirabad, Khulshi, Chattogram: 4209) 
 * **Bachelor of Science in Computer Science & Engineering (2010 – 2014)**: Dhaka University of Engineering and Technology, Gazipur. (Gazipur city, Bangladesh)
 
-## Awards and Acknowledgements
-### Co-author of selected article to be presented at The Future of Work and Learning Conference 2020
-Trondheim, Norway (2020)<br>
-International Association for Continuing Engineering Education
 
-### Speaker at World Sustainable Energy Days Energy Efficiency Young Researchers Conference
-Wels, Austria (2019)<br>
-Energy Agency of Upper Austria
-
-### 2nd runner-up at Go Green in the City North America Semifinals
 Boston, United States (2018)<br>
 Schneider Electric
 
