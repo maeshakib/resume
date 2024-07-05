@@ -1,10 +1,7 @@
 # Mohammed Amimul Ehasan Shakib <br> 
 ## Contact
-
- 
-Cox's Bazaar, Bangladesh. ZIP 4700	<br> Email: shakibm@unhcr.org, ehasanshakib@gmail.com <br>
-
-[<img align="left" alt="maeshakib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maeshakib/) [<img align="left" alt="JaviSandoval94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/maeshakib/)<br>
+Cox's Bazaar, Bangladesh. ZIP 4700	<br> 
+Email: shakibm@unhcr.org, ehasanshakib@gmail.com [<img align="left" alt="maeshakib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maeshakib/) [<img align="left" alt="JaviSandoval94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/maeshakib/)<br>
 <br>
 
 ## Summary
@@ -102,10 +99,4 @@ Created web applications for supply chain management and issue tracking in telec
 * **[MSc. in Data Analytics & Design Thinking for Business](https://www.eastdelta.edu.bd/programs-offered-by-the-university/sob/msc-data-analytics) (2024)**: EAST DELTA UNIVERSITY (East Nasirabad, Khulshi, Chattogram: 4209) 
 * **Bachelor of Science in Computer Science & Engineering (2010 – 2014)**: Dhaka University of Engineering and Technology, Gazipur. (Gazipur city, Bangladesh)
 
-
-Boston, United States (2018)<br>
-Schneider Electric
-
-### “Alumno integral” student excellence award
-Mexico City, Mexico (2018)<br>
-Tecnológico de Monterrey
+ 
