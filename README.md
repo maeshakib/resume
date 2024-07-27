@@ -38,15 +38,15 @@ This project uses a Machine Learning regression model to estimate the number of 
 * **Core responsibilities**: 
 * **Tools / languages used**: Excel, SQL Server, CRM, XML, Power Query, Power BI, UNHCR proGres, UNHCR BIMS, SSRS, SSIS
 
-### Liquid Petroleum Gas (LPG) Distribution in UNHCR AoR 16 Camps | [2019-ongoing] | [GitHub](https://bit.ly/30cnxUB) | [Deployed](https://bit.ly/3geZHgM)
+### Liquid Petroleum Gas (LPG) Distribution in UNHCR AoR 16 Camps | [2019-ongoing] | [GitHub](https://github.com/maeshakib/Liquid-Petroleum-Gas-LPG-Distribution-in-UNHCR-AoR-16-Camps) 
 This project showcases the location and magnitude of the last seven days of earthquake data from the USGS web API in an interactive world map.
-* **Core responsibilities**: Web app development, final deployment on GitHub Pages
-* **Tools / languages used**: JavaScript, Leaflet, GeoJSON
+* **Core responsibilities**: Team leader of an 8-member distribution data management team.
+* **Tools / languages used**: Excel, SQL Server, Power BI, SSRS, SSIS
 
-### Non Food Item Distribution in UNHCR AoR 16 Camps | [2019-ongoing] | [GitHub](https://bit.ly/30cnxUB) | [Deployed](https://bit.ly/3geZHgM)
+### Non Food Item Distribution in UNHCR AoR 16 Camps | [2019-ongoing] | [GitHub](https://github.com/maeshakib/Non-Food-Item-NFI-Distribution-in-UNHCR-AoR-16-Camps) 
 This project showcases the location and magnitude of the last seven days of earthquake data from the USGS web API in an interactive world map.
-* **Core responsibilities**: Web app development, final deployment on GitHub Pages
-* **Tools / languages used**: JavaScript, Leaflet, GeoJSON
+* **Core responsibilities**: Team leader of an 8-member distribution data management team.
+* **Tools / languages used**: Excel, SQL Server, Power BI, SSRS, SSIS
 
  
 ## Training and Certifications
