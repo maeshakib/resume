@@ -47,7 +47,41 @@ This project showcases the location and magnitude of the last seven days of eart
 This project showcases the location and magnitude of the last seven days of earthquake data from the USGS web API in an interactive world map.
 * **Core responsibilities**: Team leader of an 8-member distribution data management team.
 * **Tools / languages used**: Excel, SQL Server, Power BI, SSRS, SSIS
+GDT-Based LPG Distribution for IOM Safe+2 Project, Cox’s Bazar
+Spearheaded the implementation of GDT-based LPG distribution for IOM in Cox’s Bazar, Bangladesh, facilitating the first UNHCR-IOM collaboration. Conducted data mapping, process alignment, and staff training to ensure efficient, scalable, and secure LPG distribution for Rohingya refugees.
 
+
+
+### COVID-19 and Diphtheria Vaccination Campaigns
+Led data verification and collection for 22 major vaccination campaigns, generating targeted statistics, coverage reports, and dashboards. Curated and analyzed data to achieve delivery of 3.54 million doses, increasing vaccination rates from 80% to 90%.
+
+
+
+### Rohingya Refugee Registration and Data Management
+Managed profiling data for over 900,000 Rohingya refugees through continuous registration. Performed data management, statistical analysis, and produced daily reports to support UNHCR’s operational decision-making and refugee assistance programs.
+
+
+
+### GDT-Based LPG Distribution with Business Continuity Plan
+Ensured uninterrupted LPG distribution during the July 2024 unrest and internet blackout in Bangladesh by configuring GDT servers for offline functionality. Optimized resources and mitigated risks through a robust Business Continuity Plan.
+
+
+
+### UNHCR UNOPS Job Portal Development, Cox’s Bazar
+Developed a web-based job portal for UNHCR Cox’s Bazar UNOPS recruitment, streamlining the hiring process from 7 days to 2 days (71.4% improvement). Enhanced operational efficiency through innovative digital solutions.
+
+
+
+### Data Quality Assurance with SQL Scripting
+Implemented SQL-based data quality checks for UNHCR Cox’s Bazar operations, ensuring accurate, reliable, and consistent data for refugee registration and program monitoring.
+
+
+
+### UNHCR Application Deployments, Cox’s Bazar
+
+- Primes Form (2024): Deployed Primes Form to align non-standard data with UNHCR’s proGres system, enabling offline data collection and seamless data uploads, reducing data cleaning needs.
+- Cash-Assist (2023): Pioneered the first deployment of Cash-Assist in Bangladesh, facilitating efficient payments to partner volunteers.
+- GDT Volunteer Payments (2021): Implemented GDT-based volunteer payment system, marking its first use in Bangladesh for streamlined UNHCR partner payments.
  
 ## Training and Certifications
 ### [Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/dfd4fd8a-8e67-42f6-a700-95277c57e2e8/public_url)  <img align="left" alt="powerbiassocaite | microsoft" width="22px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" />
